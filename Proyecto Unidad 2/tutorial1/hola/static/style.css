@@ -1,0 +1,23 @@
+body{
+
+	text-align: inherit;
+	color: black;
+	font-size: x-small;
+}
+
+h1 {
+
+	text-align: center;
+	color: black;
+}
+
+h2 {
+
+	text-align: inherit;
+	color: black;
+	font-size: large;
+}
+
+body {
+	 background: white;
+}
